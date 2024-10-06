@@ -29,7 +29,7 @@ description:
 baseurl: "/Profile" # the subpath of your site, e.g. /blog
 url: "https://tofu-tsukuba.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-rss: rss
+# rss: rss
 # twitter_username: jekyllrb
 # github_username:  jekyll
 # dribbble_username: jekyll
