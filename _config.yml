@@ -28,8 +28,18 @@ description:
   "Research in Robotics and Soft Robotics"
 baseurl: "/Profile" # the subpath of your site, e.g. /blog
 url: "https://tofu-tsukuba.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+rss: rss
 # twitter_username: jekyllrb
 # github_username:  jekyll
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: yu-mikawa-0297b230b
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
 
 # Build settings
 theme: minima
