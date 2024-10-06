@@ -27,7 +27,7 @@ description:
   # Google search results) and in your feed.xml site description.
   "Research in Robotics and Soft Robotics"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://yumikawa.site/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tofu-tsukuba.github.io/Profile/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
