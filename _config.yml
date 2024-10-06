@@ -67,3 +67,6 @@ main:
     url: "/research/"
   # - title: "Gallery"
   #   url: "/gallery/"
+
+gems:
+  - github-pages
